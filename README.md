@@ -7,3 +7,5 @@ All of them need to be run on top of the US Qwerty keyboard layout. Right Alt is
 * s &rarr; Next
 * q &rarr; Mute
 * f &rarr; Play/Pause
+
+The scripts can be disabled -or, as AutoHotKey prefers to call it, suspended- by right-clicking the green H on your taskbar, then clicking `Suspend Hotkeys`, or by pressing both alts at the same time (`RAlt+LAlt`).
