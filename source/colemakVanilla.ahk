@@ -35,6 +35,8 @@ n::k
 >!`;::Send {U+00F3} ; ó
 >!i::Send {U+00FA} ; ú
 >!o::Send {U+00FC} ; ü
+>!1::Send {U+00A1} ; ¡
+>!n::Send {U+00BF} ; ¿
 +>!j::Send {U+00D1} ; Ñ
 +>!a::Send {U+00C1} ; Á
 +>!k::Send {U+00C9} ; É
